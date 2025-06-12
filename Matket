@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>بطاقة NFC</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>بطاقة Market</title>
   <style>
     body {
       margin: 0;
@@ -23,6 +23,6 @@
   </style>
 </head>
 <body>
-  <img src="Matket.jpg" alt="بطاقة إبراهيم الغامدي">
+  <img src="Market.jpg" alt="بطاقة Market">
 </body>
 </html>
